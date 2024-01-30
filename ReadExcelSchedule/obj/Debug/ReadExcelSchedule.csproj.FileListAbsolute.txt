@@ -1,0 +1,11 @@
+C:\Users\Ribeiro\Downloads\20200301\source\repos\EliteFitness\ReadExcelSchedule\bin\Debug\ReadExcelSchedule.exe.config
+C:\Users\Ribeiro\Downloads\20200301\source\repos\EliteFitness\ReadExcelSchedule\bin\Debug\ReadExcelSchedule.exe
+C:\Users\Ribeiro\Downloads\20200301\source\repos\EliteFitness\ReadExcelSchedule\bin\Debug\ReadExcelSchedule.pdb
+C:\Users\Ribeiro\Downloads\20200301\source\repos\EliteFitness\ReadExcelSchedule\obj\Debug\ReadExcelSchedule.csprojAssemblyReference.cache
+C:\Users\Ribeiro\Downloads\20200301\source\repos\EliteFitness\ReadExcelSchedule\obj\Debug\ReadExcelSchedule.csproj.ResolveComReference.cache
+C:\Users\Ribeiro\Downloads\20200301\source\repos\EliteFitness\ReadExcelSchedule\obj\Debug\ReadExcelSchedule.Form1.resources
+C:\Users\Ribeiro\Downloads\20200301\source\repos\EliteFitness\ReadExcelSchedule\obj\Debug\ReadExcelSchedule.Properties.Resources.resources
+C:\Users\Ribeiro\Downloads\20200301\source\repos\EliteFitness\ReadExcelSchedule\obj\Debug\ReadExcelSchedule.csproj.GenerateResource.cache
+C:\Users\Ribeiro\Downloads\20200301\source\repos\EliteFitness\ReadExcelSchedule\obj\Debug\ReadExcelSchedule.csproj.CoreCompileInputs.cache
+C:\Users\Ribeiro\Downloads\20200301\source\repos\EliteFitness\ReadExcelSchedule\obj\Debug\ReadExcelSchedule.exe
+C:\Users\Ribeiro\Downloads\20200301\source\repos\EliteFitness\ReadExcelSchedule\obj\Debug\ReadExcelSchedule.pdb

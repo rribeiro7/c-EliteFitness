@@ -1,0 +1,15 @@
+C:\Users\Ribeiro\source\repos\EliteFitness\EF-Alarme\bin\Release\EF-Alarme.exe.config
+C:\Users\Ribeiro\source\repos\EliteFitness\EF-Alarme\bin\Release\EF-Alarme.exe
+C:\Users\Ribeiro\source\repos\EliteFitness\EF-Alarme\bin\Release\EF-Alarme.pdb
+C:\Users\Ribeiro\source\repos\EliteFitness\EF-Alarme\bin\Release\Interop.WMPLib.dll
+C:\Users\Ribeiro\source\repos\EliteFitness\EF-Alarme\bin\Release\AxInterop.WMPLib.dll
+C:\Users\Ribeiro\source\repos\EliteFitness\EF-Alarme\obj\Release\Interop.WMPLib.dll
+C:\Users\Ribeiro\source\repos\EliteFitness\EF-Alarme\obj\Release\AxInterop.WMPLib.dll
+C:\Users\Ribeiro\source\repos\EliteFitness\EF-Alarme\obj\Release\EF-Alarme.csproj.ResolveComReference.cache
+C:\Users\Ribeiro\source\repos\EliteFitness\EF-Alarme\obj\Release\EF_Alarme.Form1.resources
+C:\Users\Ribeiro\source\repos\EliteFitness\EF-Alarme\obj\Release\EF_Alarme.Properties.Resources.resources
+C:\Users\Ribeiro\source\repos\EliteFitness\EF-Alarme\obj\Release\EF-Alarme.csproj.GenerateResource.cache
+C:\Users\Ribeiro\source\repos\EliteFitness\EF-Alarme\obj\Release\EF-Alarme.csproj.CoreCompileInputs.cache
+C:\Users\Ribeiro\source\repos\EliteFitness\EF-Alarme\obj\Release\EF-Alarme.exe
+C:\Users\Ribeiro\source\repos\EliteFitness\EF-Alarme\obj\Release\EF-Alarme.pdb
+C:\Users\Ribeiro\source\repos\EliteFitness\EF-Alarme\obj\Release\EF-Alarme.csprojAssemblyReference.cache
